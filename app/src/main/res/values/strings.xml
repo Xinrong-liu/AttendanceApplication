@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Attendance Application</string>
+    <string name="tab_text_1"> Class Management</string>
+    <string name="tab_text_2"> List Management</string>
+    <string name="tab_text_3"> Student Roll Call </string>
+    <string name="tab_text_4"> Attendance Record </string>
+    <string name="todo">TODO</string>
+    <string name="class_management">Class Management</string>
+    <string name="import_class">Import Class</string>
+    <string name="delete_class">Delete Class</string>
+    <string name="modify_class">Modify Class</string>
+    <string name="last_name">Last Name</string>
+    <string name="list_management">List Management</string>
+    <string name="button">Button</string>
+    <string name="modify_student">Modify Student</string>
+    <string name="first_name">First Name</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add_student">Add Student</string>
+    <string name="delete_student">Delete Student</string>
+    <string name="cancel">Cancel</string>
+    <string name="student_roll_call">Student Roll Call</string>
+    <string name="sms_reminder">SMS Reminder</string>
+    <string name="roll_call_again">Roll Call Again</string>
+    <string name="continue_roll_call">Continue Roll Call</string>
+    <string name="record_clearing">Record Clearing</string>
+    <string name="export_record">Export Record</string>
+    <string name="attendance_record">Attendance Record</string>
+</resources>
