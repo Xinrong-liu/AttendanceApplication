@@ -12,3 +12,9 @@ screenshot of the app
 [1]:	files-for-release/app-release.apk
 
 [image-1]:	files-for-release/01.jpg
+
+[image-2]:	files-for-release/02.jpg
+
+[image-3]:	files-for-release/03.jpg
+
+[image-4]:	files-for-release/04.jpg
